@@ -1,0 +1,2 @@
+riotwatcher
+google-api-python-client

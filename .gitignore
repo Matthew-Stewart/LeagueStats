@@ -1,3 +1,9 @@
+client_id.json
+client_secret.json
+riotInfo.py
+
+
+# Default github python gitignore:
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
